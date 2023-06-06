@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "752644449066",
+    "project_id": "inovatec-8138b",
+    "storage_bucket": "inovatec-8138b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752644449066:android:10fc2745558637f0c1b453",
+        "android_client_info": {
+          "package_name": "com.flutterflow.inova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752644449066-n4en2mjl6n21so7bnus3eqge1d2k4eo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8lKK94bUYlzcMCxcRAKy1m-sS-FtN3Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752644449066-n4en2mjl6n21so7bnus3eqge1d2k4eo3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752644449066-eccsddatrnjc2qi2qsquibv6r2aicch7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.inova"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
